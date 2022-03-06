@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expense_table_using_React/static/css/main.0f1ee9ac.css",
+    "main.js": "/Expense_table_using_React/static/js/main.a1e8efe5.js",
+    "index.html": "/Expense_table_using_React/index.html",
+    "main.0f1ee9ac.css.map": "/Expense_table_using_React/static/css/main.0f1ee9ac.css.map",
+    "main.a1e8efe5.js.map": "/Expense_table_using_React/static/js/main.a1e8efe5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f1ee9ac.css",
+    "static/js/main.a1e8efe5.js"
+  ]
+}
